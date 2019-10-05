@@ -3,6 +3,6 @@
   
   
 
-## **Making Step By Step Instructions for Tutorials & Repeatable Work
+## Making _**Step By Step_** Instructions for Tutorials & Repeatable Work
 
 If you have laughed internally ...good because this is only half jokingly but there is some serious merit underneath it.
