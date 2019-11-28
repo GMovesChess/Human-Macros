@@ -27,3 +27,9 @@ If you have laughed internally ...good because this is only half jokingly but th
 **Endgame or Longterm Side-Effects**
 
 **Process**
+- PreGame Rituals 
+- Preperation 
+
+
+
+## Examples for Context 
