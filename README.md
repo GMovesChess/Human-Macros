@@ -17,12 +17,12 @@ If you have laughed internally ...good because this is only half jokingly but th
 - Whats the Purpose or Value of your tasks 
 
 **Medium** 
--Digital 
--Phsyical 
--Other 
+- Digital 
+- Phsyical 
+- Other 
 
 **Expectation** 
--Preconcieved notions 
+- Preconcieved notions 
 
 **Endgame or Longterm Side-Effects**
 
